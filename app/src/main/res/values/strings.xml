@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Amplitude Example</string>
+
+    <string name="main_activity_text">Olá! Sou a <b>primeira</b> tela!</string>
+    <string name="main_activity_button_text">Ir para a segunda tela</string>
+
+    <string name="second_activity_text">Olá! Sou a <b>segunda</b> tela!</string>
+    <string name="go_to_flow_one_button_text">Ir para o <b>fluxo 1</b></string>
+    <string name="go_to_flow_two_button_text">Ir para o <b>fluxo 2</b></string>
+
+    <string name="flow_one_activity_text">Hey! Sou a tela do <b>fluxo 1</b>!</string>
+    <string name="flow_two_activity_text">Hey! Sou a tela do <b>fluxo 2!</b></string>
+</resources>
